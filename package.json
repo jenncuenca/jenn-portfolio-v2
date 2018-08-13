@@ -1,0 +1,22 @@
+{
+  "name": "jenn-portfolio-v2",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenncuenca/jenn-portfolio-v2.git"
+  },
+  "author": "Jennifer Cuenca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jenncuenca/jenn-portfolio-v2/issues"
+  },
+  "homepage": "https://github.com/jenncuenca/jenn-portfolio-v2#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
